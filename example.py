@@ -20,3 +20,7 @@ canary_model.transcribe(
         target_lang="en",  # language of the text output
         pnc='true',  # whether to have PnC output, choices=[True, False]
 )
+
+
+# Potentially also tts
+# https://docs.nvidia.com/nemo-framework/user-guide/latest/nemotoolkit/tts/api.html
